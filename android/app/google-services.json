@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966312889345",
+    "project_id": "fahad-870cb",
+    "storage_bucket": "fahad-870cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966312889345:android:8f9ff9ff917aa767b6c400",
+        "android_client_info": {
+          "package_name": "com.example.instgram_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnXl7sMog6ioT0tgGJkpEjGwNzCK1x9xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
